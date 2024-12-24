@@ -8,15 +8,15 @@
             "RU": "Коллекция [semester] [years]",
             "UA": "Колекція [semester] [years]",
             "BY": "Калекцыя [semester] [years]",
-            "JP": "ファッションウィーク",
-            "KR": "[year]（[quarter]）뉴욕 패션위크",
-            "CN": "[year]（[quarter]）纽约时装周",
-            "AE": "الولايات المتحدة الأمريكية",
-            "SA": "الولايات المتحدة الأمريكية",
-            "IQ": "الولايات المتحدة الأمريكية",
-            "IR": "الولايات المتحدة الأمريكية",
-            "KW": "الولايات المتحدة الأمريكية",
-            "QA": "الولايات المتحدة الأمريكية"
+            "JP": "[quarter]コレクション [years]",
+            "KR": "[quarter]컬렉션 [years]",
+            "CN": "[years] [quarter]年系列",
+            "AE": "[years] [quarter]مجموعة",
+            "SA": "[years] [quarter]مجموعة",
+            "IQ": "[years] [quarter]مجموعة",
+            "IR": "[years] [quarter]مجموعة",
+            "KW": "[years] [quarter]مجموعة",
+            "QA": "[years] [quarter]مجموعة"
         }
     },
     "001": {
