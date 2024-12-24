@@ -57,6 +57,16 @@
             "RU": { "title": "Тиффани Хаддиш" }
         }
     },
+    "Claudia Romani":
+    {
+        "height": 1.7, "weight": 55,
+        "sizes": "89-64-92", "nsfw": "true",
+        "shoe_size": 7.5, "country": "IT",
+        "birthday": "April 14, 1982",
+        "language": {
+            "RU": { "title": "Клаудия Романи" }
+        }
+    },
     "Ashley Graham":
     {
         "height": 1.75, "weight": 85,
