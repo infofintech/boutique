@@ -24,6 +24,7 @@
         "language": {
             "CH": "La Boutique Ristorante",
             "GR": "Εστιατόριο Γκόρντον Ράμσεϊ",
+            "CY": "Εστιατόριο Γκόρντον Ράμσεϊ",
             "RU": "Ресторан Гордон Рамзи",
             "UA": "Ресторан Гордон Рамзі",
             "BY": "Рэстаран Гордан Рамзі",
@@ -43,6 +44,7 @@
         "language": {
             "CH": "La Boutique Lifestyle",
             "GR": "Περιοδικό Μόδα [month] [year]",
+            "CY": "Περιοδικό Μόδα [month] [year]",
             "RU": "Журнал Vogue [month] [year]",
             "UA": "Журнал Vogue [month] [year]",
             "BY": "Часопіс Vogue [month] [year]",
