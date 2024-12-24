@@ -8,15 +8,15 @@
             "RU": "Коллекция [semester] [years]",
             "UA": "Колекція [semester] [years]",
             "BY": "Калекцыя [semester] [years]",
-            "JP": "[quarter]コレクション [years]",
-            "KR": "[quarter]컬렉션 [years]",
-            "CN": "[years] [quarter]年系列",
-            "AE": "[years] [quarter]مجموعة",
-            "SA": "[years] [quarter]مجموعة",
-            "IQ": "[years] [quarter]مجموعة",
-            "IR": "[years] [quarter]مجموعة",
-            "KW": "[years] [quarter]مجموعة",
-            "QA": "[years] [quarter]مجموعة"
+            "JP": "[semester]コレクション [years]",
+            "KR": "[semester]컬렉션 [years]",
+            "CN": "[years] [semester]年系列",
+            "AE": "[years] [semester]مجموعة",
+            "SA": "[years] [semester]مجموعة",
+            "IQ": "[years] [semester]مجموعة",
+            "IR": "[years] [semester]مجموعة",
+            "KW": "[years] [semester]مجموعة",
+            "QA": "[years] [semester]مجموعة"
         }
     },
     "001": {
