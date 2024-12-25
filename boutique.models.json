@@ -1,6 +1,5 @@
 {
-    "Audrey Hepburn":
-    {
+    "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
@@ -9,8 +8,7 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
-    "Amber Heard":
-    {
+    "Amber Heard": {
         "height": 1.7, "weight": 55,
         "sizes": "81-61-86", "nsfw": "true",
         "shoe_size": 8, "country": "US",
@@ -19,8 +17,7 @@
             "RU": { "title": "Амбер Хёрд" }
         }
     },
-    "Victoria Justice":
-    {
+    "Victoria Justice": {
         "height": 1.66, "weight": 53,
         "sizes": "87-61-89", "nsfw": "true",
         "shoe_size": 7, "country": "US",
@@ -29,16 +26,14 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
-    "Eva Darling":
-    {
+    "Eva Darling": {
         "country": "US", "nsfw": "true",
         "maison": "https://www.eva-darling.com",
         "language": {
             "RU": { "title": "Ева Дарлин" }
         }
     },
-    "Olivia Culpo":
-    {
+    "Olivia Culpo": {
         "height": 1.66, "weight": 52,
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
@@ -47,8 +42,7 @@
             "RU": { "title": "Оливия Калпо" }
         }
     },
-    "Tiffany Haddish":
-    {
+    "Tiffany Haddish": {
         "height": 1.67, "weight": 59,
         "sizes": "84-66-81", "nsfw": "true",
         "shoe_size": 8, "country": "US", 
@@ -57,8 +51,7 @@
             "RU": { "title": "Тиффани Хаддиш" }
         }
     },
-    "Claudia Romani":
-    {
+    "Claudia Romani": {
         "height": 1.7, "weight": 55,
         "sizes": "89-64-92", "nsfw": "true",
         "shoe_size": 7.5, "country": "IT",
@@ -67,8 +60,7 @@
             "RU": { "title": "Клаудия Романи" }
         }
     },
-    "Ashley Graham":
-    {
+    "Ashley Graham": {
         "height": 1.75, "weight": 85,
         "sizes": "107-96-117", "nsfw": "true",
         "shoe_size": 10, "country": "US",
@@ -77,17 +69,7 @@
             "RU": { "title": "Эшли Грэм" }
         }
     },
-    "Vittoria di Savoia":
-    {
-        "height": 1.73, "nsfw": "true",
-        "shoe_size": 8, "country": "IT",
-        "birthday": "December 28, 2003",
-        "language": {
-            "RU": { "title": "Виктория Савойская" }
-        }
-    },
-    "Dua Lipa":
-    {
+    "Dua Lipa": {
         "height": 1.73, "weight": 61,
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8.5, "country": "GB",
@@ -96,8 +78,15 @@
             "RU": { "title": "Дуа Липа" }
         }
     },
-    "Caila Quinn":
-    {
+    "Vittoria di Savoia": {
+        "height": 1.73, "nsfw": "true",
+        "shoe_size": 8, "country": "IT",
+        "birthday": "December 28, 2003",
+        "language": {
+            "RU": { "title": "Виктория Савойская" }
+        }
+    },
+    "Caila Quinn": {
         "height": 1.67, "weight": 60, "nsfw": "true",
         "shoe_size": 6, "country": "US",
         "birthday": "December 10, 1991",
@@ -105,8 +94,7 @@
             "RU": { "title": "Кайла Куинн" }
         }
     },
-    "Rosie Huntington-Whiteley":
-    {
+    "Rosie Huntington-Whiteley": {
         "height": 1.75, "weight": 54,
         "sizes": "86-63-89", "nsfw": "true",
         "shoe_size": 9, "country": "GB",
@@ -115,8 +103,7 @@
             "RU": { "title": "Роузи Хантингтон-Уайтли" }
         }
     },
-    "Elena Gheorghe":
-    {
+    "Elena Gheorghe": {
         "height": 1.6, "weight": "50", "nsfw": "true",
         "shoe_size": 7.5, "country": "RO",
         "birthday": "July 30, 1985",
@@ -124,8 +111,18 @@
             "RU": { "title": "Елена Георге" }
         }
     },
-    "The Elegance of European-Crafted Clothing":
-    {
+    "Couture Boudoir": {
+        "insignia": "Lady", "nsfw": "true", "country": "FR",
+        "maison": "https://www.coutureboudoir.com",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
+    "The Elegance of European-Crafted Clothing": {
         "country": "EU", "insignia": "Formal",
         "maison": "https://www.thepemberleygroup.com/blog/the-elegance-of-european-crafted-clothing",
         "memoir": "This clothing tends to veer towards sophisticated designs. While loose clothing and boho-chic styles take the stage on this side of the world, demure designs are still popular in many circles. There’s a reason to praise Europeans for their fashion choices—their commitment to being well-dressed at all times stands out against many other fashions of the world. Still, this clothing isn’t only for fancy evenings that demand high-end clothing. In fact, many European-crafted clothing embrace an upscale street style that blends chic fashion with sensible designs perfect for everyday wear.",
@@ -136,8 +133,7 @@
             }
         }
     },
-    "Monte Carlo Casino, Monaco":
-    {
+    "Monte Carlo Casino, Monaco": {
         "country": "FR", "insignia": "Clock",
         "maison": "https://www.jamesbondlifestyle.com/product/monte-carlo-casino-monaco",
         "memoir": "One of the most glamorous Bond locations is the Casino Monte Carlo in the country of Monaco, the second smallest country in the world (after the Vatican). The beautiful casino with it's impressive facade features prominently in Never Say Never Again and GoldenEye. The first time Bond visits the casino is in Never Say Never Again (the remake of Thunderball, not produced by EON but with Sean Connery as James Bond). Bond plays the 'futuristic' laser videogame 'Domination' with Largo as Domino Petachi looks on, during the Charity Ball organised by Largo in the casino. In the film, the casino is called The Casino Royale Monte Carlo. In the 1995 James Bond movie GoldenEye, Pierce Brosnan as Bond meets Xenia Onatopp inside the casino. First he beats her at a game of Baccarat and then he meets her for a drink at the bar.",
@@ -148,8 +144,7 @@
             }
         }
     },
-    "Gordon Ramsay Wines":
-    {
+    "Gordon Ramsay Wines": {
         "country": "GB", "insignia": "Wine",
         "maison": "https://www.gordonramsay.com",
         "memoir": "\"Running a 3 Michelin star restaurant for over 20 years means I have had the joy of tasting some of the finest wines in the world. Wine making has always fascinated me; it’s a magical process where tradition, passion, and science are blended together and captured in one stunning bottle.\"",
@@ -160,8 +155,7 @@
             }
         }
     },
-    "European Café Culture":
-    {
+    "European Café Culture": {
         "country": "EU", "insignia": "Coffee",
         "maison": "https://coffeeaffection.com/european-coffee-culture",
         "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
@@ -172,8 +166,7 @@
             }
         }
     },
-    "Viennese Coffee House Culture":
-    {
+    "Viennese Coffee House Culture": {
         "country": "AT", "insignia": "AustroHungary",
         "maison": "https://www.unesco.at/en/culture/intangible-cultural-heritage/national-inventory/news-1/article/viennese-coffee-house-culture",
         "memoir": "The story of the Viennese coffeehouse began near the end of the 17th century and was closely tied to the Turkish siege of the city. Vienna’s first coffeehouse was established by the Armenian spy Deodato, who was entrusted with brewing coffee for the Habsburg court in Vienna. In 1720, Café Kramer, on the Graben, was the first coffeehouse to offer newspapers for their customers to peruse.",
@@ -184,8 +177,7 @@
             }
         }
     },
-    "Café Pouchkine":
-    {
+    "Café Pouchkine": {
         "country": "RU", "insignia": "Pushkin",
         "maison": "https://www.parismarais.com/en/cafe-pouchkine.html",
         "memoir": "Created by Andrey Dellos, Café Pouchkine is a must taste destination of the Russian and Parisian capital. Dedicated to the Russian and French noble cuisine, it is today a mythical place recognized in the world. Opened in December 2013, the Café Pouchkine located Places des Vosges is a space dedicated to glutonny where the elegant creations of the pastry chef Damien Piscioneri are presented. In tribute to charm and to the Russian elegance, pastries at Café Pouchkine are small treasures with the soft Slavic accents. Sophistication, elegance, balance of flavours and textures are the keywords of our creations. Guaranteed pleasure and change of scenery !",
