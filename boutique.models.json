@@ -8,6 +8,15 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
+    "Rihanna": {
+        "height": 1.73, "weight": 60,
+        "sizes": "87-61-92", "shoe_size": 10,
+        "country": "BB", "nsfw": "true",
+        "birthday": "February 20, 1988",
+        "language": {
+            "RU": { "title": "Рианна" }
+        }
+    },
     "Amber Heard": {
         "height": 1.7, "weight": 55,
         "sizes": "81-61-86", "nsfw": "true",
