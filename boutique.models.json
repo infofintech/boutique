@@ -131,8 +131,7 @@
     },
     "Zena Marshall": {
         "height": 1.65, "weight": 49, "nsfw": "true",
-        "shoe_size": 7.5, "country": "GB",
-        "sizes": "34-24-34",
+        "sizes": "34-24-34", "country": "GB",
         "birthday": "January 1, 1925",
         "language": {
             "RU": { "title": "Зина Маршалл" }
