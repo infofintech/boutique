@@ -17,6 +17,21 @@
             }
         }
     },
+    "Vittoria di Savoia": {
+        "height": 1.73, "nsfw": "true",
+        "shoe_size": 8, "country": "IT",
+        "birthday": "December 28, 2003",
+        "language": {
+            "RU": { "title": "Виктория Савойская" }
+        }
+    },
+    "Eva Darling": {
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com",
+        "language": {
+            "RU": { "title": "Ева Дарлин" }
+        }
+    },
     "Fanny Neguesha": {
         "height": 1.73, "weight": 56,
         "sizes": "86-59-89", "nsfw": "true",
@@ -62,13 +77,13 @@
             "RU": { "title": "Скарлетт Йоханссон" }
         }
     },
-    "Audrey Hepburn": {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
+    "Dua Lipa": {
+        "height": 1.73, "weight": 61,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 22, 1995",
         "language": {
-            "RU": { "title": "Одри Хепберн" }
+            "RU": { "title": "Дуа Липа" }
         }
     },
     "Claudia Romani": {
@@ -88,22 +103,12 @@
             "RU": { "title": "Кайла Куинн" }
         }
     },
-    "Ashley Graham": {
-        "height": 1.75, "weight": 85,
-        "sizes": "107-96-117", "nsfw": "true",
-        "shoe_size": 10, "country": "US",
-        "birthday": "October 30, 1987",
+    "Elena Gheorghe": {
+        "height": 1.6, "weight": 50, "nsfw": "true",
+        "shoe_size": 7.5, "country": "RO",
+        "birthday": "July 30, 1985",
         "language": {
-            "RU": { "title": "Эшли Грэм" }
-        }
-    },
-    "Amber Heard": {
-        "height": 1.7, "weight": 55,
-        "sizes": "81-61-86", "nsfw": "true",
-        "shoe_size": 8, "country": "US",
-        "birthday": "April 22, 1986",
-        "language": {
-            "RU": { "title": "Амбер Хёрд" }
+            "RU": { "title": "Елена Георге" }
         }
     },
     "Victoria Justice": {
@@ -115,11 +120,22 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
-    "Eva Darling": {
-        "country": "US", "nsfw": "true",
-        "maison": "https://www.eva-darling.com",
+    "Rosie Huntington-Whiteley": {
+        "height": 1.75, "weight": 54,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 9, "country": "GB",
+        "birthday": "April 18, 1987",
         "language": {
-            "RU": { "title": "Ева Дарлин" }
+            "RU": { "title": "Роузи Хантингтон-Уайтли" }
+        }
+    },
+    "Ashley Graham": {
+        "height": 1.75, "weight": 85,
+        "sizes": "107-96-117", "nsfw": "true",
+        "shoe_size": 10, "country": "US",
+        "birthday": "October 30, 1987",
+        "language": {
+            "RU": { "title": "Эшли Грэм" }
         }
     },
     "Olivia Culpo": {
@@ -131,6 +147,24 @@
             "RU": { "title": "Оливия Калпо" }
         }
     },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Amber Heard": {
+        "height": 1.7, "weight": 55,
+        "sizes": "81-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "April 22, 1986",
+        "language": {
+            "RU": { "title": "Амбер Хёрд" }
+        }
+    },
     "Tiffany Haddish": {
         "height": 1.67, "weight": 59,
         "sizes": "84-66-81", "nsfw": "true",
@@ -138,40 +172,6 @@
         "birthday": "December 3, 1979",
         "language": {
             "RU": { "title": "Тиффани Хаддиш" }
-        }
-    },
-    "Dua Lipa": {
-        "height": 1.73, "weight": 61,
-        "sizes": "81-64-89", "nsfw": "true",
-        "shoe_size": 8.5, "country": "GB",
-        "birthday": "August 22, 1995",
-        "language": {
-            "RU": { "title": "Дуа Липа" }
-        }
-    },
-    "Vittoria di Savoia": {
-        "height": 1.73, "nsfw": "true",
-        "shoe_size": 8, "country": "IT",
-        "birthday": "December 28, 2003",
-        "language": {
-            "RU": { "title": "Виктория Савойская" }
-        }
-    },
-    "Rosie Huntington-Whiteley": {
-        "height": 1.75, "weight": 54,
-        "sizes": "86-63-89", "nsfw": "true",
-        "shoe_size": 9, "country": "GB",
-        "birthday": "April 18, 1987",
-        "language": {
-            "RU": { "title": "Роузи Хантингтон-Уайтли" }
-        }
-    },
-    "Elena Gheorghe": {
-        "height": 1.6, "weight": 50, "nsfw": "true",
-        "shoe_size": 7.5, "country": "RO",
-        "birthday": "July 30, 1985",
-        "language": {
-            "RU": { "title": "Елена Георге" }
         }
     },
     "New York Public Library": {
