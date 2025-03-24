@@ -17,6 +17,23 @@
             }
         }
     },
+    "Vittoria di Savoia": {
+        "height": 1.73, "nsfw": "true",
+        "shoe_size": 8, "country": "IT",
+        "birthday": "December 28, 2003",
+        "language": {
+            "RU": { "title": "Виктория Савойская" }
+        }
+    },
+    "Vicky Kaya": {
+        "height": 1.77, "weight": 56,
+        "sizes": "89-61-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GR",
+        "birthday": "July 4, 1978",
+        "language": {
+            "RU": { "title": "Викки Кайя" }
+        }
+    },
     "Cardi B": {
         "height": 1.68, "weight": 62,
         "sizes": "99-69-91", "nsfw": "true",
@@ -24,14 +41,6 @@
         "birthday": "October 11, 1992",
         "language": {
             "RU": { "title": "Карди Би" }
-        }
-    },
-    "Vittoria di Savoia": {
-        "height": 1.73, "nsfw": "true",
-        "shoe_size": 8, "country": "IT",
-        "birthday": "December 28, 2003",
-        "language": {
-            "RU": { "title": "Виктория Савойская" }
         }
     },
     "Fanny Neguesha": {
