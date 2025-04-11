@@ -3,8 +3,8 @@
         "title": "[semester] Collection [years]",
         "language": {
             "CH": "La Boutique Haute Couture",
-            "GR": "[semester] [years]",
-            "CY": "[semester] [years]",
+            "GR": "Συλλογή [semester] [years]",
+            "CY": "Συλλογή [semester] [years]",
             "RU": "Коллекция [semester] [years]",
             "UA": "Колекція [semester] [years]",
             "BY": "Калекцыя [semester] [years]",
@@ -23,8 +23,8 @@
         "title": "Restaurant Gordon Ramsay",
         "language": {
             "CH": "La Boutique Ristorante",
-            "GR": "Εστιατόριο Γκόρντον Ράμσεϊ",
-            "CY": "Εστιατόριο Γκόρντον Ράμσεϊ",
+            "GR": "Γαστρονομία Γκόρντον Ράμσεϊ",
+            "CY": "Γαστρονομία Γκόρντον Ράμσεϊ",
             "RU": "Ресторан имени Гордона Рамзи",
             "UA": "Ресторан імені Гордона Рамзі",
             "BY": "Рэстаран імя Гордана Рамзі",
