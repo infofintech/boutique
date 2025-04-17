@@ -58,7 +58,14 @@
         "shoe_size": 8, "country": "IT",
         "birthday": "December 28, 2003",
         "language": {
-            "RU": { "title": "Виктория Савойская" }
+            "RU": { "title": "Виктория Савойская" },
+            "UA": { "title": "Вітторія Савойська" },
+            "BG": { "title": "Виктория Савойска" },
+            "CZ": { "title": "Vittoria Savojská" },
+            "FR": { "title": "Vittoria de Savoie" },
+            "BE": { "title": "Vittoria de Savoie" },
+            "ES": { "title": "Victoria de Saboya" },
+            "MX": { "title": "Victoria de Saboya" }
         }
     },
     "Vicky Kaya": {
@@ -67,7 +74,9 @@
         "shoe_size": 8.5, "country": "GR",
         "birthday": "July 4, 1978",
         "language": {
-            "RU": { "title": "Викки Кайя" }
+            "RU": { "title": "Викки Кайя" },
+            "GR": { "title": "Βασιλική Καγιά" },
+            "CY": { "title": "Βασιλική Καγιά" }
         }
     },
     "Cardi B": {
