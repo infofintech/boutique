@@ -68,6 +68,15 @@
             "MX": { "title": "Victoria de Saboya" }
         }
     },
+    "Chiara Ferragni": {
+        "height": 1.78, "weight": 55,
+        "sizes": "84-61-86", "nsfw": "true",
+        "shoe_size": 9, "country": "IT",
+        "birthday": "May 25, 1987",
+        "language": {
+            "RU": { "title": "Кьяра Ферраньи" }
+        }
+    },
     "Basiliki Kaya": {
         "height": 1.77, "weight": 56,
         "sizes": "89-61-89", "nsfw": "true",
