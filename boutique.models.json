@@ -53,6 +53,23 @@
             }
         }
     },
+    "Chiara Ferragni": {
+        "height": 1.78, "weight": 55,
+        "sizes": "84-61-86", "nsfw": "true",
+        "shoe_size": 9, "country": "IT",
+        "birthday": "May 25, 1987",
+        "language": {
+            "RU": { "title": "Кьяра Ферраньи" }
+        }
+    },
+    "Caila Quinn": {
+        "height": 1.67, "weight": 60, "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "December 10, 1991",
+        "language": {
+            "RU": { "title": "Кайла Куинн" }
+        }
+    },
     "Vittoria di Savoia": {
         "height": 1.73, "nsfw": "true",
         "shoe_size": 8, "country": "IT",
@@ -68,70 +85,6 @@
             "MX": { "title": "Victoria de Saboya" }
         }
     },
-    "Chiara Ferragni": {
-        "height": 1.78, "weight": 55,
-        "sizes": "84-61-86", "nsfw": "true",
-        "shoe_size": 9, "country": "IT",
-        "birthday": "May 25, 1987",
-        "language": {
-            "RU": { "title": "Кьяра Ферраньи" }
-        }
-    },
-    "Basiliki Kaya": {
-        "height": 1.77, "weight": 56,
-        "sizes": "89-61-89", "nsfw": "true",
-        "shoe_size": 8.5, "country": "GR",
-        "birthday": "July 4, 1978",
-        "language": {
-            "RU": { "title": "Василики Кая" },
-            "GR": { "title": "Βασιλική Καγιά" },
-            "CY": { "title": "Βασιλική Καγιά" }
-        }
-    },
-    "Cardi B": {
-        "height": 1.68, "weight": 62,
-        "sizes": "99-69-91", "nsfw": "true",
-        "shoe_size": 4, "country": "US",
-        "birthday": "October 11, 1992",
-        "language": {
-            "RU": { "title": "Карди Би" }
-        }
-    },
-    "Fanny Neguesha": {
-        "height": 1.73, "weight": 56,
-        "sizes": "86-59-89", "nsfw": "true",
-        "shoe_size": 8, "country": "BE",
-        "birthday": "June 10, 1990",
-        "language": {
-            "RU": { "title": "Фанни Негёша" }
-        }
-    },
-    "Rihanna": {
-        "height": 1.73, "weight": 60,
-        "sizes": "87-61-92", "shoe_size": 10,
-        "country": "BB", "nsfw": "true",
-        "birthday": "February 20, 1988",
-        "language": {
-            "RU": { "title": "Рианна" }
-        }
-    },
-    "Caila Quinn": {
-        "height": 1.67, "weight": 60, "nsfw": "true",
-        "shoe_size": 6, "country": "US",
-        "birthday": "December 10, 1991",
-        "language": {
-            "RU": { "title": "Кайла Куинн" }
-        }
-    },
-    "Ariana Grande": {
-        "height": 1.55, "weight": 44,
-        "sizes": "81-61-84", "nsfw": "true",
-        "shoe_size": 6, "country": "US",
-        "birthday": "June 26, 1993",
-        "language": {
-            "RU": { "title": "Ариана Гранде" }
-        }
-    },
     "Scarlett Johansson": {
         "height": 1.6, "weight": 57,
         "sizes": "92-64-92", "nsfw": "true",
@@ -141,22 +94,13 @@
             "RU": { "title": "Скарлетт Йоханссон" }
         }
     },
-    "Elizabeth Hurley": {
-        "height": 1.73, "weight": 61,
-        "sizes": "97-66-86", "nsfw": "true",
-        "shoe_size": 8.5, "country": "US",
-        "birthday": "June 10, 1965",
+    "Rihanna": {
+        "height": 1.73, "weight": 60,
+        "sizes": "87-61-92", "shoe_size": 10,
+        "country": "BB", "nsfw": "true",
+        "birthday": "February 20, 1988",
         "language": {
-            "RU": { "title": "Элизабет Хёрли" }
-        }
-    },
-    "Victoria Justice": {
-        "height": 1.66, "weight": 53,
-        "sizes": "87-61-89", "nsfw": "true",
-        "shoe_size": 7, "country": "US",
-        "birthday": "February 19, 1993",
-        "language": {
-            "RU": { "title": "Виктория Джастис" }
+            "RU": { "title": "Рианна" }
         }
     },
     "Elena Gheorghe": {
@@ -174,6 +118,33 @@
         "birthday": "April 18, 1987",
         "language": {
             "RU": { "title": "Роузи Хантингтон-Уайтли" }
+        }
+    },
+    "Basiliki Kaya": {
+        "height": 1.77, "weight": 56,
+        "sizes": "89-61-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GR",
+        "birthday": "July 4, 1978",
+        "language": {
+            "RU": { "title": "Василики Кая" },
+            "GR": { "title": "Βασιλική Καγιά" },
+            "CY": { "title": "Βασιλική Καγιά" }
+        }
+    },
+    "Claudia Romani": {
+        "height": 1.7, "weight": 55,
+        "sizes": "89-64-92", "nsfw": "true",
+        "shoe_size": 7.5, "country": "IT",
+        "birthday": "April 14, 1982",
+        "language": {
+            "RU": { "title": "Клаудия Романи" }
+        }
+    },
+    "Eva Darling": {
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com",
+        "language": {
+            "RU": { "title": "Ева Дарлин" }
         }
     },
     "Dua Lipa": {
@@ -194,13 +165,13 @@
             "RU": { "title": "Эшли Грэм" }
         }
     },
-    "Claudia Romani": {
-        "height": 1.7, "weight": 55,
-        "sizes": "89-64-92", "nsfw": "true",
-        "shoe_size": 7.5, "country": "IT",
-        "birthday": "April 14, 1982",
+    "Elizabeth Hurley": {
+        "height": 1.73, "weight": 61,
+        "sizes": "97-66-86", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "June 10, 1965",
         "language": {
-            "RU": { "title": "Клаудия Романи" }
+            "RU": { "title": "Элизабет Хёрли" }
         }
     },
     "Barbara Palvin": {
@@ -212,13 +183,40 @@
             "RU": { "title": "Барбара Палвин" }
         }
     },
-    "Olivia Culpo": {
-        "height": 1.66, "weight": 52,
-        "sizes": "81-64-89", "nsfw": "true",
-        "shoe_size": 8, "country": "US",
-        "birthday": "May 8, 1992",
+    "Cardi B": {
+        "height": 1.68, "weight": 62,
+        "sizes": "99-69-91", "nsfw": "true",
+        "shoe_size": 4, "country": "US",
+        "birthday": "October 11, 1992",
         "language": {
-            "RU": { "title": "Оливия Калпо" }
+            "RU": { "title": "Карди Би" }
+        }
+    },
+    "Fanny Neguesha": {
+        "height": 1.73, "weight": 56,
+        "sizes": "86-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "BE",
+        "birthday": "June 10, 1990",
+        "language": {
+            "RU": { "title": "Фанни Негёша" }
+        }
+    },
+    "Victoria Justice": {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 7, "country": "US",
+        "birthday": "February 19, 1993",
+        "language": {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Ariana Grande": {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 6, "country": "US",
+        "birthday": "June 26, 1993",
+        "language": {
+            "RU": { "title": "Ариана Гранде" }
         }
     },
     "Audrey Hepburn": {
@@ -228,6 +226,15 @@
         "birthday": "May 4, 1929",
         "language": {
             "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Olivia Culpo": {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language": {
+            "RU": { "title": "Оливия Калпо" }
         }
     },
     "Tiffany Haddish": {
@@ -246,13 +253,6 @@
         "birthday": "April 22, 1986",
         "language": {
             "RU": { "title": "Амбер Хёрд" }
-        }
-    },
-    "Eva Darling": {
-        "country": "US", "nsfw": "true",
-        "maison": "https://www.eva-darling.com",
-        "language": {
-            "RU": { "title": "Ева Дарлин" }
         }
     },
     "New York Public Library": {
