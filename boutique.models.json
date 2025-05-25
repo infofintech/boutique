@@ -79,6 +79,15 @@
             "RU": { "title": "Кайла Куинн" }
         }
     },
+    "Kate Beckinsale": {
+        "height": 1.7, "weight": 54,
+        "sizes": "87-59-87", "nsfw": "true",
+        "shoe_size": 10, "country": "GB",
+        "birthday": "July 26, 1973",
+        "language": {
+            "RU": { "title": "Кейт Бекинсейл" }
+        }
+    },
     "Vittoria di Savoia": {
         "height": 1.73, "nsfw": "true",
         "shoe_size": 8, "country": "IT",
