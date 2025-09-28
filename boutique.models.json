@@ -106,6 +106,15 @@
             "MX": { "title": "Victoria de Saboya" }
         }
     },
+    "Katy Perry": {
+        "height": 1.73, "weight": 61,
+        "sizes": "92-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 25, 1984",
+        "language": {
+            "RU": { "title": "Кэти Перри" }
+        }
+    },
     "Scarlett Johansson": {
         "height": 1.6, "weight": 57,
         "sizes": "92-64-92", "nsfw": "true",
