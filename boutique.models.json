@@ -115,6 +115,15 @@
             "RU": { "title": "Кэти Перри" }
         }
     },
+    "Petra Ecclestone": {
+        "height": 1.73, "weight": 55,
+        "sizes": "81-68-93", "nsfw": "true",
+        "shoe_size": 8.5, "country": "IT",
+        "birthday": "December 19, 1988",
+        "language": {
+            "RU": { "title": "Петра Экклестон" }
+        }
+    },
     "Scarlett Johansson": {
         "height": 1.6, "weight": 57,
         "sizes": "92-64-92", "nsfw": "true",
