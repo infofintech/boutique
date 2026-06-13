@@ -13,6 +13,19 @@
         "title": "Amber Heard",
         "weight": 55
     },
+    "Otilia Bruma Отилия Брама (Model Модель)": {
+        "birthday": "June 13, 1992",
+        "country": "RO",
+        "height": 1.73,
+        "language": {
+            "RU": {
+                "title": "Отилия Брама"
+            }
+        },
+        "sizes": "86-63-90",
+        "title": "Otilia Bruma",
+        "weight": 58
+    },
     "Ardennes Арденны": {
         "avatar": "Palace",
         "country": "BE",
