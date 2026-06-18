@@ -891,6 +891,20 @@
         "title": "Petra Ecclestone",
         "weight": 55
     },
+    "Pixie Lott Пикси Лотт (Model Модель)": {
+        "birthday": "January 12, 1991",
+        "country": "GB",
+        "height": 1.73,
+        "language": {
+            "RU": {
+                "title": "Пикси Лотт"
+            }
+        },
+        "shoe_size": 9,
+        "sizes": "87-64-92",
+        "title": "Pixie Lott",
+        "weight": 57
+    },
     "Rendez-Vous With A Woman Свидание с женщиной в кафе": {
         "avatar": "Coffee",
         "country": "EU",
